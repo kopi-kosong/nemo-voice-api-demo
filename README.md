@@ -5,7 +5,7 @@ This is a simple IVR. The IVR firstly announce current system date & time.
 
 Then, a recording audio file will be played. This is NOT TTS, but a mp3 file.
 
-Option 1 will transfer your call to a number, which you need to configure a mobile or a landline number.
+Option 1 will transfer your call to a number, which should configured by you. It can be a mobile or a landline number.
 
 # Run the App Locally
 
